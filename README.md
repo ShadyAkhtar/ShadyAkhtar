@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 👨‍💻[Portfolio](https://shadabakhtar.cf)
 💕[Instagram](https://www.instagram.com/Shady__Akhtar/)
-🙌[Linked In](www.linkedin.com/in/shadab--akhtar)
+🙌[Linked In](https://www.linkedin.com/in/shadab--akhtar)
 
 ## Other
 
