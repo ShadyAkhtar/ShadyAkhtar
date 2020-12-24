@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Other
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyAkhtar&layout=compact)
+![Shadab's github stats](https://github-readme-stats.vercel.app/api?username=ShadyAkhtar&count_private=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyAkhtar&layout=compact)
 
-![Shadab's github stats](https://github-readme-stats.vercel.app/api?username=ShadyAkhtar&count_private=true)
+
 
