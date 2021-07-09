@@ -6,8 +6,8 @@
 <!-- - 🤔 I’m looking for help with ... -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on project based on (Node.js, Express, Pug, MongoDb)
-- 🌱 I’m currently learning - React
+- 🔭 I’m currently working on MERN stack
+- 🌱 I’m currently learning - YDKJS
 - 💬 Ask me about ...
 - 📫 How to reach me: 💕[Instagram](https://www.instagram.com/Shady__Akhtar/)
 - 😄 Learning Enthusiast
